@@ -1,0 +1,6 @@
+﻿  OOP_Set_Копылов.cpp
+\\Mac\Home\Documents\Lab1_CPP\Lab1_CPP\OOP_Set_Копылов.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+\\Mac\Home\Documents\Lab1_CPP\Lab1_CPP\OOP_Set_Копылов.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SetLab3_Копылов.cpp
+  Generating Code...
+  Lab1_CPP.vcxproj -> \\Mac\Home\Documents\Lab1_CPP\x64\Debug\Lab1_CPP.exe
