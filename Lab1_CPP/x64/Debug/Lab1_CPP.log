@@ -1,6 +1,7 @@
-﻿  OOP_Set_Копылов.cpp
-\\Mac\Home\Documents\Lab1_CPP\Lab1_CPP\OOP_Set_Копылов.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-\\Mac\Home\Documents\Lab1_CPP\Lab1_CPP\OOP_Set_Копылов.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Lab1_CPP.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  OOP_Set_Копылов.cpp
+C:\Users\Surface\source\repos\Lab_PDSD\Lab1_CPP\OOP_Set_Копылов.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Surface\source\repos\Lab_PDSD\Lab1_CPP\OOP_Set_Копылов.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   SetLab3_Копылов.cpp
   Generating Code...
-  Lab1_CPP.vcxproj -> \\Mac\Home\Documents\Lab1_CPP\x64\Debug\Lab1_CPP.exe
+  Lab1_CPP.vcxproj -> C:\Users\Surface\source\repos\Lab_PDSD\x64\Debug\Lab3_CPP.exe
